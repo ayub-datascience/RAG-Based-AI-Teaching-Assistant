@@ -1,6 +1,6 @@
 # 🤖 RAG Based AI Teaching Assistant
 
-An AI-powered Teaching Assistant built using Retrieval-Augmented Generation (RAG), semantic search, vector embeddings, and Large Language Models (LLMs).
+An AI-powered Teaching Assistant built using Retrieval-Augmented Generation (RAG), semantic search, vector embeddings, and Large Language Model (LLM).
 
 This project converts educational videos into text, generates embeddings, performs semantic search using cosine similarity, and answers user questions using a local LLM.
 
@@ -206,6 +206,6 @@ The AI retrieves the most relevant lecture chunks using semantic search and gene
 
 # 👨‍💻 Author
 
-Ayub
+Ayyub
 
 🎓 Engineering Student
