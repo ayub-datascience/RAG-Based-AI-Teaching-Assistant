@@ -1,0 +1,15 @@
+# Ignore folders
+.vscode/
+__pycache__/
+audios/
+jsons/
+videos/
+
+# Ignore files
+*.joblib
+*.jpg
+*.jpeg
+*.png
+
+# Do NOT ignore Python files
+!*.py
